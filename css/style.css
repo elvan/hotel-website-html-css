@@ -133,3 +133,25 @@ p {
   color: #f7c08a;
   background: #444;
 }
+
+/* Showcase */
+#showcase {
+  height: 600px;
+  background: url('../img/showcase.jpg') no-repeat center center/cover;
+}
+
+#showcase .showcase-content {
+  padding-top: 170px;
+  color: #fff;
+  text-align: center;
+}
+
+#showcase .showcase-content h1 {
+  font-size: 60px;
+  line-height: 1.2em;
+}
+
+#showcase .showcase-content p {
+  padding-bottom: 20px;
+  line-height: 1.7em;
+}
