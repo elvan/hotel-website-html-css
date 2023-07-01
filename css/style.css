@@ -213,6 +213,33 @@ p {
   min-height: 100%;
 }
 
+/* Testimonials */
+#testimonials {
+  height: 600px;
+  padding-top: 100px;
+  background: url('../img/test-bg.jpg') no-repeat center center/cover;
+}
+
+#testimonials h2 {
+  padding-bottom: 40px;
+  color: #fff;
+  text-align: center;
+}
+
+#testimonials .testimonial {
+  opacity: 0.9;
+  margin-bottom: 40px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#testimonials .testimonial img {
+  float: left;
+  width: 100px;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
 /* Footer */
 #main-footer {
   padding: 20px;
