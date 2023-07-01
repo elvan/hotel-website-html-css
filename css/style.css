@@ -193,6 +193,26 @@ p {
   margin-bottom: 10px;
 }
 
+/* About Info */
+#about-info .info-right {
+  float: right;
+  width: 50%;
+  min-height: 100%;
+}
+
+#about-info .info-right img {
+  display: block;
+  width: 70%;
+  margin: auto;
+  border-radius: 50%;
+}
+
+#about-info .info-left {
+  float: left;
+  width: 50%;
+  min-height: 100%;
+}
+
 /* Footer */
 #main-footer {
   padding: 20px;
